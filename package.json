@@ -1,0 +1,16 @@
+{
+  "name": "appwhithaicorehere",
+  "version": "1.0.0",
+  "description": "app of ai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Roberto Madriz",
+  "license": "ISC",
+  "dependencies": {
+    "cohere-ai": "^6.2.0",
+    "ora": "^6.3.0"
+  }
+}
